@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\DisposeandFinalize\DisposeandFinalize\bin\Debug\DisposeandFinalize.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\DisposeandFinalize\DisposeandFinalize\bin\Debug\DisposeandFinalize.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\DisposeandFinalize\DisposeandFinalize\bin\Debug\DisposeandFinalize.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\DisposeandFinalize\DisposeandFinalize\obj\Debug\DisposeandFinalize.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\DisposeandFinalize\DisposeandFinalize\obj\Debug\DisposeandFinalize.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\DisposeandFinalize\DisposeandFinalize\obj\Debug\DisposeandFinalize.pdb

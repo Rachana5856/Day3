@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\ValueandRef\ValueandRef\bin\Debug\ValueandRef.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\ValueandRef\ValueandRef\bin\Debug\ValueandRef.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\ValueandRef\ValueandRef\bin\Debug\ValueandRef.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\ValueandRef\ValueandRef\obj\Debug\ValueandRef.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\ValueandRef\ValueandRef\obj\Debug\ValueandRef.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\ValueandRef\ValueandRef\obj\Debug\ValueandRef.pdb
